@@ -1,38 +1,48 @@
  # Hi, I’m William Wong 👋
 
+#### Who I am?
+
+- A Software Engineer based in **Toronto, Canada**.
+- An Early-Stage Startup Co-founder.
+- Worked as **Software Engineer Intern** at **Intel**.
+- **UC Berkeley** Data Science Graduate.
+
+#### What I'm doing?
+
+- Writing `JavaScript`, `TypeScript`, `Node.js`, `React,js`, `MySQL`, `Python`, `Java`.
+- Mostly active on **[LinkedIn](https://www.linkedin.com/in/william-wong-7ab064171/)** and **[Twitter](https://twitter.com/williamwhf0325)**.
+
+#### What are my skill sets?
+
+- 🗄️ **Backend:**
+
+  - **Language/Platform:** `JavaScript` • `TypeScript` • `Node.js`
+  - **Framework:** `Express.js`
+  - **Databases:** `MySQL` • `PostgreSQL`
+  - **Protocol:** `REST` 
+
+- 🖥 **Frontend:**
+
+  - **Language:** `JavaScript` • `TypeScript`
+  - **Framework/Library:** `React.js` 
+  - **Utils:** `Tailwind` 
+
+- 🎡 **Ecosystem:**
+  - **Version Control:** `Git` • `GitHub` • `Gitlab`
+  - **Project Management:** `Jira` • `GitHub Projects` • `Trello` • `Asana`
+
+#### How to reach me?
+
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/williamwhf0325)
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-wong-7ab064171/)
 [![Devpost Follow](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/wwilliamwong?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wonghinfung0325@gmail.com)
 
-## I'm a Developer, Startup Founder!!
+<br/>
+<br/>
 
-- 💼 My Background: UC Berkeley Grad, Ex-Intel Software Engineer (Hong Kong -> California -> Toronto)
-- 🌱 Currently mastering full-stack development with HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB.
-- 🚀 Building my first startup: Currently in the early stages, working on building an MVP.
-- ⚡ Current Focus: actively attend tech and entrepreneurship conferences and participate in hackathons
-- 🤝 Let's Connect: I love networking with people. Feel free to reach out!
-
-
-<hr>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=wwilliamwong&theme=graywhite&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwilliamwong&theme=graywhite&layout=compact)](https://github.com/wwilliamwong/github-readme-stats)
-
-<hr>
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
-
-
+<p align="center">
+<a href="http://www.github.com/wwilliamwong"><img src="https://github-readme-stats.vercel.app/api?username=wwilliamwong&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="arifszn's GitHub stats" /></a>
+<a href="http://www.github.com/wwilliamwong"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wwilliamwong&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ </p>
 
