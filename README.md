@@ -15,8 +15,8 @@
 
 <hr>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=wwilliamwong&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwilliamwong&layout=compact)](https://github.com/wwilliamwong/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=wwilliamwong&theme=graywhite&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwilliamwong&theme=graywhite&layout=compact)](https://github.com/wwilliamwong/github-readme-stats)
 
 <hr>
 
