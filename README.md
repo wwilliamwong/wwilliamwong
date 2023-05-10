@@ -42,7 +42,7 @@
 <br/>
 
 <p align="center">
-<a href="http://www.github.com/wwilliamwong"><img src="https://github-readme-stats.vercel.app/api?username=wwilliamwong&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="arifszn's GitHub stats" /></a>
+<a href="http://www.github.com/wwilliamwong"><img src="https://github-readme-stats.vercel.app/api?username=wwilliamwong&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="william's GitHub stats" /></a>
 <a href="http://www.github.com/wwilliamwong"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wwilliamwong&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
- </p>
+</p>
 
