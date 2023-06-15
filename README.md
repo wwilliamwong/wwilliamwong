@@ -38,11 +38,5 @@
 [![Devpost Follow](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/wwilliamwong?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wonghinfung0325@gmail.com)
 
-<br/>
-<br/>
 
-<p align="center">
-<img src="https://github-readme-stats-liart-delta.vercel.app/api?username=wwilliamwong&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="William's Stats" />
-<img src="https://streak-stats.demolab.com?user=wwilliamwong&count_private=true&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
- 
-</p>
+
