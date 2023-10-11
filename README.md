@@ -3,9 +3,6 @@
 #### Who I am?
 
 - A Software Engineer based in **Toronto, Canada**.
-- An Early-Stage Startup Co-founder.
-- Worked as **Software Engineer Intern** at **Intel**.
-- **UC Berkeley** Data Science Graduate.
 
 #### What I'm doing?
 
